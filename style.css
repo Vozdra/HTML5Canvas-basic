@@ -1,0 +1,80 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body p {
+  margin-top: 25px;
+}
+body p strong {
+  margin-top: 25px;
+  text-decoration: underline;
+  color: #44bb8f;
+}
+#cns-1 {
+  border: 3px dotted #000;
+}
+#cns-2 {
+  border: 3px dotted #000;
+}
+#cns-3 {
+  border: 3px dotted #000;
+}
+#cns-4 {
+  border: 3px dotted #000;
+}
+#cns-5 {
+  border: 3px dotted #000;
+}
+#cns-6 {
+  border: 3px dotted #000;
+}
+#cns-7 {
+  border: 3px dotted #000;
+}
+#cns-8 {
+  border: 3px dotted #000;
+}
+#cns-9 {
+  border: 3px dotted #000;
+}
+#cns-10 {
+  border: 3px dotted #000;
+}
+#cns-11 {
+  border: 3px dotted #000;
+}
+#cns-12 {
+  border: 3px dotted #000;
+}
+#cns-13 {
+  border: 3px dotted #000;
+}
+#cns-14 {
+  border: 3px dotted #000;
+}
+#cns-15 {
+  border: 3px dotted #000;
+}
+#cns-16 {
+  border: 3px dotted #000;
+}
+#cns-17 {
+  border: 3px dotted #000;
+}
+#cns-18 {
+  border: 3px dotted #000;
+}
+#cns-19 {
+  border: 3px dotted #000;
+}
+#cns-20 {
+  border: 3px dotted #000;
+}
+#cns-21 {
+  border: 3px dotted #000;
+}
+#cns-22 {
+  border: 3px dotted #000;
+}
